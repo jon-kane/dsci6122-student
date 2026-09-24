@@ -1,0 +1,3 @@
+# Configure nbstripout for all Jupyter notebooks
+*.ipynb filter=nbstripout
+*.ipynb diff=ipynb

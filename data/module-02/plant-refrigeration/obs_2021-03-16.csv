@@ -1,0 +1,21 @@
+id,day,plant,machine_id,shift,dt,description,category,reason_code
+408081,2021-03-16,refrigeration,63,1,5,AMADA RG 50 PRESS BRAKE,Press Brake,Set Up
+408083,2021-03-16,refrigeration,63,1,5,AMADA RG 50 PRESS BRAKE,Press Brake,Operator PM
+408084,2021-03-16,refrigeration,76,1,5,GMT STAKING MACHINE (SPECIAL),Custom,Set Up
+408086,2021-03-16,refrigeration,76,1,5,GMT STAKING MACHINE (SPECIAL),Custom,Operator PM
+408087,2021-03-16,refrigeration,73,1,5,FELDMANN DUAL ARM FORMER,Custom,Set Up
+408089,2021-03-16,refrigeration,73,1,10,FELDMANN DUAL ARM FORMER,Custom,Operator PM
+408090,2021-03-16,refrigeration,67,1,600,H&H J-FLANGE FORMER,Custom,No Work
+408091,2021-03-16,refrigeration,79,1,5,FELDMANN  FOUR POST FORMER,Custom,Set Up
+408092,2021-03-16,refrigeration,79,1,15,FELDMANN  FOUR POST FORMER,Custom,Operator PM
+408094,2021-03-16,refrigeration,94,1,5,LORS SPOTWELDER,Spotwelder,Set Up
+408095,2021-03-16,refrigeration,94,1,15,LORS SPOTWELDER,Spotwelder,Operator PM
+408097,2021-03-16,refrigeration,44,1,5,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+408099,2021-03-16,refrigeration,44,1,15,AMADA RG-80 PRESS BRAKE,Press Brake,Operator PM
+408102,2021-03-16,refrigeration,106,1,10,CANNON CABINET FOAMER,Custom,Operator PM
+408104,2021-03-16,refrigeration,111,1,33,Charge Station  5 S,Custom,Set Up
+408105,2021-03-16,refrigeration,111,1,22,Charge Station  5 S,Custom,No Work
+408106,2021-03-16,refrigeration,111,1,15,Charge Station  5 S,Custom,Operator PM
+408107,2021-03-16,refrigeration,109,1,36,Charge Station 7 S,Custom,Set Up
+408109,2021-03-16,refrigeration,109,1,31,Charge Station 7 S,Custom,No Work
+408113,2021-03-16,refrigeration,109,1,15,Charge Station 7 S,Custom,Operator PM

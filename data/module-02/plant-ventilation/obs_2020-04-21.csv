@@ -1,0 +1,33 @@
+id,day,plant,machine_id,shift,dt,description,category,reason_code
+270249,2020-04-21,ventilation,24,1,180,357 QUEEN,Turret Press,No Operator
+270250,2020-04-21,ventilation,24,1,90,357 QUEEN,Turret Press,No Operator
+270251,2020-04-21,ventilation,24,1,10,357 QUEEN,Turret Press,Operator PM
+270252,2020-04-21,ventilation,40,1,420,357 QUEEN,Turret Press,No Operator
+270253,2020-04-21,ventilation,40,1,10,357 QUEEN,Turret Press,Operator PM
+270254,2020-04-21,ventilation,57,1,15,KUHLMEYER SANDER,Sander,Operator PM
+270255,2020-04-21,ventilation,59,1,15,KUHLMEYER SANDER,Sander,Operator PM
+270256,2020-04-21,ventilation,60,1,120,LORS SPOTWELDER,Spotwelder,No Operator
+270257,2020-04-21,ventilation,60,1,5,LORS SPOTWELDER,Spotwelder,Operator PM
+270258,2020-04-21,ventilation,62,1,15,G & P SANDER,Sander,Operator PM
+270259,2020-04-21,ventilation,71,1,300,FBD8025E PRESS BRAKE,Press Brake,No Operator
+270260,2020-04-21,ventilation,71,1,3,FBD8025E PRESS BRAKE,Press Brake,Set Up
+270261,2020-04-21,ventilation,71,1,15,FBD8025E PRESS BRAKE,Press Brake,Operator PM
+270262,2020-04-21,ventilation,77,1,61,FBD8025NT PRESS BRAKE,Press Brake,No Operator
+270263,2020-04-21,ventilation,77,1,52,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+270264,2020-04-21,ventilation,77,1,15,FBD8025NT PRESS BRAKE,Press Brake,Operator PM
+270265,2020-04-21,ventilation,83,1,360,RAS FLEXIBEND,Custom,No Operator
+270266,2020-04-21,ventilation,83,1,10,RAS FLEXIBEND,Custom,Operator PM
+270267,2020-04-21,ventilation,102,1,120,APELIO PUNCH\LASER COMBO,Turret Press,No Operator
+270268,2020-04-21,ventilation,102,1,85,APELIO PUNCH\LASER COMBO,Turret Press,No Operator
+270269,2020-04-21,ventilation,102,1,5,APELIO PUNCH\LASER COMBO,Turret Press,Operator PM
+270270,2020-04-21,ventilation,107,1,20,HDS 8025NT,Press Brake,Set Up
+270271,2020-04-21,ventilation,107,1,50,HDS 8025NT,Press Brake,Set Up
+270272,2020-04-21,ventilation,107,1,10,HDS 8025NT,Press Brake,Set Up
+270273,2020-04-21,ventilation,107,1,29,HDS 8025NT,Press Brake,Set Up
+270274,2020-04-21,ventilation,107,1,315,HDS 8025NT,Press Brake,No Operator
+270275,2020-04-21,ventilation,107,1,15,HDS 8025NT,Press Brake,Operator PM
+270276,2020-04-21,ventilation,112,1,25,Tool Crib,Tool sharpener,Operator PM
+270277,2020-04-21,ventilation,113,1,20,Tool Crib,Tool sharpener,Operator PM
+270278,2020-04-21,ventilation,123,1,30,MILLER WELDER,Welder,Operator PM
+270279,2020-04-21,ventilation,123,1,120,MILLER WELDER,Welder,No Operator
+270280,2020-04-21,ventilation,126,1,15,MILLER WELDER,Welder,Operator PM

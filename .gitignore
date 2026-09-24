@@ -1,0 +1,34 @@
+# R & RStudio Environment
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.RData
+*.Rds.cache
+*.Rproj
+
+# Python & Jupyter Caches
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+*.pyc
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large Datasets (> 30MB externalized to cloud storage)
+data-large/
+
+# Student Export Staging
+dsci6122-student-dist/
+
+# AI Agent Customizations (Course Management & Instructor Only)
+.agents/
+.agent/
+_agents/
+_agent/
+AGENTS.md
+SKILLS.md

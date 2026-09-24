@@ -1,0 +1,46 @@
+id,day,plant,machine_id,shift,dt,description,category,reason_code
+270170,2020-04-24,ventilation,4,1,600,SHEAR,Shear,No Operator
+270171,2020-04-24,ventilation,4,1,15,SHEAR,Shear,Operator PM
+270172,2020-04-24,ventilation,8,1,600,255,Turret Press,No Operator
+270173,2020-04-24,ventilation,8,1,5,255,Turret Press,Operator PM
+270174,2020-04-24,ventilation,24,1,270,357 QUEEN,Turret Press,No Operator
+270175,2020-04-24,ventilation,24,1,60,357 QUEEN,Turret Press,No Operator
+270176,2020-04-24,ventilation,24,1,10,357 QUEEN,Turret Press,Operator PM
+270177,2020-04-24,ventilation,35,1,270,PULSAR 2415 LASER,Laser,No Operator
+270178,2020-04-24,ventilation,35,1,60,PULSAR 2415 LASER,Laser,No Operator
+270179,2020-04-24,ventilation,35,1,10,PULSAR 2415 LASER,Laser,Operator PM
+270180,2020-04-24,ventilation,40,1,600,357 QUEEN,Turret Press,No Operator
+270181,2020-04-24,ventilation,40,1,5,357 QUEEN,Turret Press,Operator PM
+270182,2020-04-24,ventilation,45,1,5,150 TON PRESS,Stamping Press,Operator PM
+270183,2020-04-24,ventilation,45,1,600,150 TON PRESS,Stamping Press,No Operator
+270184,2020-04-24,ventilation,57,1,30,KUHLMEYER SANDER,Sander,Operator PM
+270185,2020-04-24,ventilation,59,1,15,KUHLMEYER SANDER,Sander,Operator PM
+270186,2020-04-24,ventilation,60,1,150,LORS SPOTWELDER,Spotwelder,No Operator
+270187,2020-04-24,ventilation,60,1,5,LORS SPOTWELDER,Spotwelder,Operator PM
+270188,2020-04-24,ventilation,62,1,15,G & P SANDER,Sander,Operator PM
+270189,2020-04-24,ventilation,68,1,330,FBD8025E PRESS BRAKE,Press Brake,No Operator
+270190,2020-04-24,ventilation,68,1,10,FBD8025E PRESS BRAKE,Press Brake,Operator PM
+270191,2020-04-24,ventilation,71,1,120,FBD8025E PRESS BRAKE,Press Brake,No Operator
+270192,2020-04-24,ventilation,71,1,10,FBD8025E PRESS BRAKE,Press Brake,Operator PM
+270193,2020-04-24,ventilation,74,1,600,HFB8025 PRESS BRAKE,Press Brake,No Operator
+270194,2020-04-24,ventilation,74,1,5,HFB8025 PRESS BRAKE,Press Brake,Operator PM
+270195,2020-04-24,ventilation,77,1,37,FBD8025NT PRESS BRAKE,Press Brake,No Operator
+270196,2020-04-24,ventilation,77,1,12,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+270197,2020-04-24,ventilation,77,1,13,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+270198,2020-04-24,ventilation,77,1,15,FBD8025NT PRESS BRAKE,Press Brake,Operator PM
+270199,2020-04-24,ventilation,83,1,300,RAS FLEXIBEND,Custom,No Operator
+270200,2020-04-24,ventilation,83,1,120,RAS FLEXIBEND,Custom,No Operator
+270201,2020-04-24,ventilation,83,1,10,RAS FLEXIBEND,Custom,Operator PM
+270202,2020-04-24,ventilation,102,1,120,APELIO PUNCH\LASER COMBO,Turret Press,No Operator
+270203,2020-04-24,ventilation,102,1,140,APELIO PUNCH\LASER COMBO,Turret Press,No Operator
+270204,2020-04-24,ventilation,102,1,5,APELIO PUNCH\LASER COMBO,Turret Press,Operator PM
+270206,2020-04-24,ventilation,107,1,6,HDS 8025NT,Press Brake,Set Up
+270207,2020-04-24,ventilation,107,1,8,HDS 8025NT,Press Brake,Set Up
+270208,2020-04-24,ventilation,107,1,12,HDS 8025NT,Press Brake,Set Up
+270209,2020-04-24,ventilation,107,1,15,HDS 8025NT,Press Brake,Operator PM
+270210,2020-04-24,ventilation,112,1,25,Tool Crib,Tool sharpener,Operator PM
+270211,2020-04-24,ventilation,113,1,20,Tool Crib,Tool sharpener,Operator PM
+270212,2020-04-24,ventilation,115,1,600,Welder,Welder,No Operator
+270213,2020-04-24,ventilation,115,1,5,Welder,Welder,Operator PM
+270214,2020-04-24,ventilation,123,1,10,MILLER WELDER,Welder,Operator PM
+270215,2020-04-24,ventilation,126,1,15,MILLER WELDER,Welder,Operator PM

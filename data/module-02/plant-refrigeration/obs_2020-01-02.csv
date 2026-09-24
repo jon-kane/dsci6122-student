@@ -1,0 +1,72 @@
+id,day,plant,machine_id,shift,dt,description,category,reason_code
+225565,2020-01-02,refrigeration,104,1,9,AMADA HFT 8025S PRESS BRAKE,Press Brake,Set Up
+225566,2020-01-02,refrigeration,104,1,3,AMADA HFT 8025S PRESS BRAKE,Press Brake,Set Up
+225567,2020-01-02,refrigeration,104,1,20,AMADA HFT 8025S PRESS BRAKE,Press Brake,Operator PM
+225568,2020-01-02,refrigeration,136,1,22,AMADA VIPROS 255,Turret Press,No Operator
+225569,2020-01-02,refrigeration,136,1,5,AMADA VIPROS 255,Turret Press,Set Up
+225570,2020-01-02,refrigeration,136,1,7,AMADA VIPROS 255,Turret Press,Tool Change(dull)
+225571,2020-01-02,refrigeration,136,1,10,AMADA VIPROS 255,Turret Press,Set Up
+225572,2020-01-02,refrigeration,136,1,8,AMADA VIPROS 255,Turret Press,Tool Change(dull)
+225573,2020-01-02,refrigeration,136,1,9,AMADA VIPROS 255,Turret Press,Set Up
+225574,2020-01-02,refrigeration,136,1,7,AMADA VIPROS 255,Turret Press,Tool Change(dull)
+225575,2020-01-02,refrigeration,136,1,4,AMADA VIPROS 255,Turret Press,Set Up
+225576,2020-01-02,refrigeration,136,1,18,AMADA VIPROS 255,Turret Press,Operator PM
+225577,2020-01-02,refrigeration,158,1,30,AMADA VIPROS 357 QUEEN,Turret Press,Operator PM
+225579,2020-01-02,refrigeration,3,1,10,TOMAN TOOL HEAT STAKER,Custom,Operator PM
+225580,2020-01-02,refrigeration,7,1,30,AMADA VIPROS 358 KING,Turret Press,Operator PM
+225581,2020-01-02,refrigeration,33,1,408,AMADA SHEAR,Shear,No Operator
+225582,2020-01-02,refrigeration,33,1,16,AMADA SHEAR,Shear,Operator PM
+225583,2020-01-02,refrigeration,39,1,20,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+225584,2020-01-02,refrigeration,39,1,20,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+225585,2020-01-02,refrigeration,39,1,15,AMADA RG-80 PRESS BRAKE,Press Brake,Operator PM
+225586,2020-01-02,refrigeration,42,1,5,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+225587,2020-01-02,refrigeration,42,1,15,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+225588,2020-01-02,refrigeration,42,1,14,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+225589,2020-01-02,refrigeration,42,1,10,AMADA RG-80 PRESS BRAKE,Press Brake,Operator PM
+225590,2020-01-02,refrigeration,50,1,18,AMADA VIPROS 357 QUEEN,Turret Press,Operator PM
+225591,2020-01-02,refrigeration,52,1,30,CINCINNATI PRESS BRAKE,Press Brake,Set Up
+225592,2020-01-02,refrigeration,52,1,25,CINCINNATI PRESS BRAKE,Press Brake,Set Up
+225593,2020-01-02,refrigeration,52,1,15,CINCINNATI PRESS BRAKE,Press Brake,Set Up
+225594,2020-01-02,refrigeration,52,1,15,CINCINNATI PRESS BRAKE,Press Brake,Operator PM
+225595,2020-01-02,refrigeration,54,1,7,AMADA HFE 8025S PRESS BRAKE,Press Brake,Set Up
+225596,2020-01-02,refrigeration,54,1,8,AMADA HFE 8025S PRESS BRAKE,Press Brake,Set Up
+225597,2020-01-02,refrigeration,54,1,4,AMADA HFE 8025S PRESS BRAKE,Press Brake,Set Up
+225598,2020-01-02,refrigeration,54,1,8,AMADA HFE 8025S PRESS BRAKE,Press Brake,Set Up
+225599,2020-01-02,refrigeration,54,1,15,AMADA HFE 8025S PRESS BRAKE,Press Brake,Operator PM
+225600,2020-01-02,refrigeration,56,1,11,AMADA RG-50 PRESS BRAKE,Press Brake,Set Up
+225601,2020-01-02,refrigeration,56,1,12,AMADA RG-50 PRESS BRAKE,Press Brake,Set Up
+225602,2020-01-02,refrigeration,56,1,10,AMADA RG-50 PRESS BRAKE,Press Brake,Set Up
+225603,2020-01-02,refrigeration,56,1,20,AMADA RG-50 PRESS BRAKE,Press Brake,Operator PM
+225604,2020-01-02,refrigeration,58,1,480,AMADA VIPROS 358 KING,Turret Press,Maintenance
+225605,2020-01-02,refrigeration,58,1,30,AMADA VIPROS 358 KING,Turret Press,Operator PM
+225606,2020-01-02,refrigeration,61,1,22,AMADA VIPROS 255,Turret Press,No Operator
+225607,2020-01-02,refrigeration,61,1,5,AMADA VIPROS 255,Turret Press,Set Up
+225608,2020-01-02,refrigeration,61,1,7,AMADA VIPROS 255,Turret Press,Tool Change(dull)
+225609,2020-01-02,refrigeration,61,1,5,AMADA VIPROS 255,Turret Press,Set Up
+225610,2020-01-02,refrigeration,61,1,4,AMADA VIPROS 255,Turret Press,Set Up
+225611,2020-01-02,refrigeration,61,1,6,AMADA VIPROS 255,Turret Press,Set Up
+225612,2020-01-02,refrigeration,61,1,7,AMADA VIPROS 255,Turret Press,Tool Change(dull)
+225613,2020-01-02,refrigeration,61,1,9,AMADA VIPROS 255,Turret Press,Set Up
+225614,2020-01-02,refrigeration,61,1,19,AMADA VIPROS 255,Turret Press,Operator PM
+225616,2020-01-02,refrigeration,70,1,10,H&H J-FLANGE FORMER,Custom,Operator PM
+225617,2020-01-02,refrigeration,96,1,15,LORS SPOTWELDER,Spotwelder,Operator PM
+225618,2020-01-02,refrigeration,98,1,15,LORS SPOTWELDER,Spotwelder,Operator PM
+225620,2020-01-02,refrigeration,101,1,20,LORS SPOTWELDER,Spotwelder,Operator PM
+225621,2020-01-02,refrigeration,119,1,30,Amada RG-80 Press Brake,Press Brake,Set Up
+225622,2020-01-02,refrigeration,119,1,30,Amada RG-80 Press Brake,Press Brake,Set Up
+225623,2020-01-02,refrigeration,119,1,15,Amada RG-80 Press Brake,Press Brake,Set Up
+225624,2020-01-02,refrigeration,119,1,15,Amada RG-80 Press Brake,Press Brake,Operator PM
+225625,2020-01-02,refrigeration,134,1,480,AMADA TOOL GRINDER - TUGO,Tool sharpener,No Operator
+225626,2020-01-02,refrigeration,134,1,16,AMADA TOOL GRINDER - TUGO,Tool sharpener,Operator PM
+225627,2020-01-02,refrigeration,94,1,15,LORS SPOTWELDER,Spotwelder,Operator PM
+225628,2020-01-02,refrigeration,44,1,10,AMADA RG-80 PRESS BRAKE,Press Brake,Operator PM
+225629,2020-01-02,refrigeration,79,1,10,FELDMANN  FOUR POST FORMER,Custom,Operator PM
+225630,2020-01-02,refrigeration,76,1,5,GMT STAKING MACHINE (SPECIAL),Custom,Operator PM
+225631,2020-01-02,refrigeration,73,1,5,FELDMANN DUAL ARM FORMER,Custom,Operator PM
+225632,2020-01-02,refrigeration,67,1,5,H&H J-FLANGE FORMER,Custom,Operator PM
+225633,2020-01-02,refrigeration,63,1,5,AMADA RG 50 PRESS BRAKE,Press Brake,Operator PM
+225634,2020-01-02,refrigeration,88,1,10,CANNON CABINET FOAMER,Custom,Operator PM
+225635,2020-01-02,refrigeration,106,1,10,CANNON CABINET FOAMER,Custom,Operator PM
+225636,2020-01-02,refrigeration,86,1,10,UTE COPPER TUBE BENDER,Custom,Operator PM
+225637,2020-01-02,refrigeration,116,1,180,CANNON DOOR FORM,Custom,Maintenance
+225638,2020-01-02,refrigeration,116,1,15,CANNON DOOR FORM,Custom,Operator PM

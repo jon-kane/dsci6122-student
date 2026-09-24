@@ -1,0 +1,65 @@
+id,day,plant,machine_id,shift,dt,description,category,reason_code
+406092,2021-04-21,ventilation,4,1,480,SHEAR,Shear,No Operator
+406093,2021-04-21,ventilation,4,1,15,SHEAR,Shear,Operator PM
+406094,2021-04-21,ventilation,8,1,480,255,Turret Press,No Operator
+406095,2021-04-21,ventilation,8,1,15,255,Turret Press,Operator PM
+406096,2021-04-21,ventilation,24,1,10,357 QUEEN,Turret Press,Set Up
+406097,2021-04-21,ventilation,24,1,30,357 QUEEN,Turret Press,Maintenance
+406098,2021-04-21,ventilation,24,1,10,357 QUEEN,Turret Press,Set Up
+406099,2021-04-21,ventilation,24,1,5,357 QUEEN,Turret Press,Set Up
+406100,2021-04-21,ventilation,24,1,15,357 QUEEN,Turret Press,Operator PM
+406101,2021-04-21,ventilation,35,1,15,PULSAR 2415 LASER,Laser,Set Up
+406102,2021-04-21,ventilation,35,1,10,PULSAR 2415 LASER,Laser,Set Up
+406103,2021-04-21,ventilation,35,1,2,PULSAR 2415 LASER,Laser,Load Material
+406104,2021-04-21,ventilation,35,1,3,PULSAR 2415 LASER,Laser,Set Up
+406105,2021-04-21,ventilation,35,1,10,PULSAR 2415 LASER,Laser,Set Up
+406106,2021-04-21,ventilation,35,1,15,PULSAR 2415 LASER,Laser,Operator PM
+406107,2021-04-21,ventilation,40,1,10,357 QUEEN,Turret Press,Set Up
+406108,2021-04-21,ventilation,40,1,15,357 QUEEN,Turret Press,Set Up
+406109,2021-04-21,ventilation,40,1,20,357 QUEEN,Turret Press,Tool Change(dull)
+406110,2021-04-21,ventilation,40,1,10,357 QUEEN,Turret Press,Set Up
+406111,2021-04-21,ventilation,40,1,15,357 QUEEN,Turret Press,Tool Change(dull)
+406112,2021-04-21,ventilation,40,1,90,357 QUEEN,Turret Press,No Operator
+406113,2021-04-21,ventilation,40,1,15,357 QUEEN,Turret Press,Operator PM
+406114,2021-04-21,ventilation,45,1,20,150 TON PRESS,Stamping Press,Operator PM
+406115,2021-04-21,ventilation,45,1,10,150 TON PRESS,Stamping Press,No Operator
+406116,2021-04-21,ventilation,45,1,10,150 TON PRESS,Stamping Press,Set Up
+406117,2021-04-21,ventilation,57,1,15,KUHLMEYER SANDER,Sander,Operator PM
+406118,2021-04-21,ventilation,59,1,15,KUHLMEYER SANDER,Sander,Operator PM
+406119,2021-04-21,ventilation,60,1,15,LORS SPOTWELDER,Spotwelder,Set Up
+406120,2021-04-21,ventilation,60,1,15,LORS SPOTWELDER,Spotwelder,Operator PM
+406121,2021-04-21,ventilation,62,1,15,G & P SANDER,Sander,Operator PM
+406122,2021-04-21,ventilation,68,1,10,FBD8025E PRESS BRAKE,Press Brake,Set Up
+406123,2021-04-21,ventilation,68,1,10,FBD8025E PRESS BRAKE,Press Brake,Set Up
+406124,2021-04-21,ventilation,68,1,180,FBD8025E PRESS BRAKE,Press Brake,No Operator
+406125,2021-04-21,ventilation,68,1,10,FBD8025E PRESS BRAKE,Press Brake,Set Up
+406126,2021-04-21,ventilation,68,1,30,FBD8025E PRESS BRAKE,Press Brake,No Operator
+406127,2021-04-21,ventilation,68,1,15,FBD8025E PRESS BRAKE,Press Brake,Operator PM
+406128,2021-04-21,ventilation,71,1,8,FBD8025E PRESS BRAKE,Press Brake,Set Up
+406129,2021-04-21,ventilation,71,1,10,FBD8025E PRESS BRAKE,Press Brake,Operator PM
+406130,2021-04-21,ventilation,74,1,600,HFB8025 PRESS BRAKE,Press Brake,No Operator
+406131,2021-04-21,ventilation,74,1,15,HFB8025 PRESS BRAKE,Press Brake,Operator PM
+406132,2021-04-21,ventilation,77,1,6,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+406133,2021-04-21,ventilation,77,1,6,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+406134,2021-04-21,ventilation,77,1,6,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+406135,2021-04-21,ventilation,77,1,6,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+406136,2021-04-21,ventilation,77,1,4,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+406137,2021-04-21,ventilation,77,1,5,FBD8025NT PRESS BRAKE,Press Brake,Operator PM
+406138,2021-04-21,ventilation,83,1,270,RAS FLEXIBEND,Custom,No Operator
+406139,2021-04-21,ventilation,83,1,10,RAS FLEXIBEND,Custom,Set Up
+406140,2021-04-21,ventilation,83,1,120,RAS FLEXIBEND,Custom,No Operator
+406141,2021-04-21,ventilation,83,1,15,RAS FLEXIBEND,Custom,Operator PM
+406142,2021-04-21,ventilation,102,1,10,APELIO PUNCH\LASER COMBO,Turret Press,Set Up
+406143,2021-04-21,ventilation,102,1,30,APELIO PUNCH\LASER COMBO,Turret Press,No Operator
+406144,2021-04-21,ventilation,102,1,20,APELIO PUNCH\LASER COMBO,Turret Press,Set Up
+406145,2021-04-21,ventilation,102,1,15,APELIO PUNCH\LASER COMBO,Turret Press,Operator PM
+406146,2021-04-21,ventilation,107,1,45,HDS 8025NT,Press Brake,Set Up
+406147,2021-04-21,ventilation,107,1,10,HDS 8025NT,Press Brake,Operator PM
+406148,2021-04-21,ventilation,112,1,15,Tool Crib,Tool sharpener,Operator PM
+406149,2021-04-21,ventilation,112,1,180,Tool Crib,Tool sharpener,No Operator
+406150,2021-04-21,ventilation,113,1,25,Tool Crib,Tool sharpener,Operator PM
+406151,2021-04-21,ventilation,113,1,90,Tool Crib,Tool sharpener,No Operator
+406152,2021-04-21,ventilation,115,1,21,Welder,Welder,Set Up
+406153,2021-04-21,ventilation,115,1,15,Welder,Welder,Operator PM
+406154,2021-04-21,ventilation,123,1,30,MILLER WELDER,Welder,Operator PM
+406155,2021-04-21,ventilation,126,1,30,MILLER WELDER,Welder,Operator PM

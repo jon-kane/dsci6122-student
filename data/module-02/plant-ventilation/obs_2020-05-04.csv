@@ -1,0 +1,55 @@
+id,day,plant,machine_id,shift,dt,description,category,reason_code
+270810,2020-05-04,ventilation,4,1,480,SHEAR,Shear,No Operator
+270811,2020-05-04,ventilation,4,1,15,SHEAR,Shear,Operator PM
+270812,2020-05-04,ventilation,8,1,160,255,Turret Press,No Operator
+270813,2020-05-04,ventilation,8,1,60,255,Turret Press,Maintenance
+270814,2020-05-04,ventilation,8,1,150,255,Turret Press,No Operator
+270815,2020-05-04,ventilation,8,1,15,255,Turret Press,Operator PM
+270816,2020-05-04,ventilation,24,1,5,357 QUEEN,Turret Press,Set Up
+270817,2020-05-04,ventilation,24,1,10,357 QUEEN,Turret Press,Tool Change(special)
+270818,2020-05-04,ventilation,24,1,10,357 QUEEN,Turret Press,Set Up
+270819,2020-05-04,ventilation,24,1,160,357 QUEEN,Turret Press,No Operator
+270820,2020-05-04,ventilation,24,1,5,357 QUEEN,Turret Press,Set Up
+270821,2020-05-04,ventilation,24,1,15,357 QUEEN,Turret Press,Operator PM
+270822,2020-05-04,ventilation,35,1,10,PULSAR 2415 LASER,Laser,Set Up
+270823,2020-05-04,ventilation,35,1,5,PULSAR 2415 LASER,Laser,Set Up
+270824,2020-05-04,ventilation,35,1,5,PULSAR 2415 LASER,Laser,Set Up
+270825,2020-05-04,ventilation,35,1,5,PULSAR 2415 LASER,Laser,Set Up
+270826,2020-05-04,ventilation,35,1,15,PULSAR 2415 LASER,Laser,Operator PM
+270827,2020-05-04,ventilation,40,1,150,357 QUEEN,Turret Press,Load Material
+270828,2020-05-04,ventilation,40,1,30,357 QUEEN,Turret Press,Operator PM
+270829,2020-05-04,ventilation,40,1,80,357 QUEEN,Turret Press,No Operator
+270830,2020-05-04,ventilation,40,1,120,357 QUEEN,Turret Press,No Operator
+270831,2020-05-04,ventilation,45,1,240,150 TON PRESS,Stamping Press,No Operator
+270832,2020-05-04,ventilation,45,1,10,150 TON PRESS,Stamping Press,Set Up
+270833,2020-05-04,ventilation,45,1,15,150 TON PRESS,Stamping Press,Operator PM
+270834,2020-05-04,ventilation,57,1,30,KUHLMEYER SANDER,Sander,Operator PM
+270835,2020-05-04,ventilation,59,1,15,KUHLMEYER SANDER,Sander,Operator PM
+270836,2020-05-04,ventilation,60,1,15,LORS SPOTWELDER,Spotwelder,Set Up
+270837,2020-05-04,ventilation,60,1,15,LORS SPOTWELDER,Spotwelder,Operator PM
+270838,2020-05-04,ventilation,62,1,15,G & P SANDER,Sander,Operator PM
+270839,2020-05-04,ventilation,68,1,480,FBD8025E PRESS BRAKE,Press Brake,No Operator
+270840,2020-05-04,ventilation,68,1,15,FBD8025E PRESS BRAKE,Press Brake,Operator PM
+270841,2020-05-04,ventilation,71,1,15,FBD8025E PRESS BRAKE,Press Brake,Operator PM
+270842,2020-05-04,ventilation,74,1,480,HFB8025 PRESS BRAKE,Press Brake,No Operator
+270843,2020-05-04,ventilation,77,1,21,FBD8025NT PRESS BRAKE,Press Brake,No Operator
+270844,2020-05-04,ventilation,77,1,10,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+270845,2020-05-04,ventilation,77,1,7,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+270846,2020-05-04,ventilation,77,1,6,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+270847,2020-05-04,ventilation,77,1,15,FBD8025NT PRESS BRAKE,Press Brake,Operator PM
+270848,2020-05-04,ventilation,83,1,480,RAS FLEXIBEND,Custom,No Operator
+270849,2020-05-04,ventilation,102,1,15,APELIO PUNCH\LASER COMBO,Turret Press,Set Up
+270850,2020-05-04,ventilation,102,1,10,APELIO PUNCH\LASER COMBO,Turret Press,Tool Change(special)
+270851,2020-05-04,ventilation,102,1,10,APELIO PUNCH\LASER COMBO,Turret Press,Set Up
+270852,2020-05-04,ventilation,102,1,120,APELIO PUNCH\LASER COMBO,Turret Press,No Operator
+270853,2020-05-04,ventilation,102,1,15,APELIO PUNCH\LASER COMBO,Turret Press,Operator PM
+270854,2020-05-04,ventilation,107,1,46,HDS 8025NT,Press Brake,Set Up
+270855,2020-05-04,ventilation,107,1,10,HDS 8025NT,Press Brake,Operator PM
+270856,2020-05-04,ventilation,112,1,25,Tool Crib,Tool sharpener,Operator PM
+270857,2020-05-04,ventilation,113,1,20,Tool Crib,Tool sharpener,Operator PM
+270858,2020-05-04,ventilation,115,1,20,Welder,Welder,Set Up
+270859,2020-05-04,ventilation,115,1,15,Welder,Welder,Operator PM
+270860,2020-05-04,ventilation,123,1,10,MILLER WELDER,Welder,Operator PM
+270861,2020-05-04,ventilation,126,1,15,MILLER WELDER,Welder,Operator PM
+270862,2020-05-04,ventilation,59,1,15,KUHLMEYER SANDER,Sander,Operator PM
+270863,2020-05-04,ventilation,59,1,20,KUHLMEYER SANDER,Sander,Maintenance

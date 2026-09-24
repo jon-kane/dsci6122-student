@@ -1,0 +1,229 @@
+id,day,plant,machine_id,shift,dt,description,category,reason_code
+335090,2020-11-05,cooking,87,1,4,Amada Vipros 255,Turret Press,Set Up
+335091,2020-11-05,cooking,87,1,23,Amada Vipros 255,Turret Press,Maintenance
+335092,2020-11-05,cooking,87,1,7,Amada Vipros 255,Turret Press,Maintenance
+335093,2020-11-05,cooking,87,1,5,Amada Vipros 255,Turret Press,Maintenance
+335094,2020-11-05,cooking,87,1,15,Amada Vipros 255,Turret Press,Operator PM
+335095,2020-11-05,cooking,121,1,5,Amada Vipros 255,Turret Press,Set Up
+335096,2020-11-05,cooking,121,1,5,Amada Vipros 255,Turret Press,Set Up
+335097,2020-11-05,cooking,121,1,5,Amada Vipros 255,Turret Press,Set Up
+335099,2020-11-05,cooking,121,1,10,Amada Vipros 255,Turret Press,Set Up
+335100,2020-11-05,cooking,121,1,5,Amada Vipros 255,Turret Press,Operator PM
+335101,2020-11-05,cooking,121,1,8,Amada Vipros 255,Turret Press,Set Up
+335102,2020-11-05,cooking,121,1,3,Amada Vipros 255,Turret Press,Set Up
+335103,2020-11-05,cooking,121,1,5,Amada Vipros 255,Turret Press,Set Up
+335104,2020-11-05,cooking,121,1,5,Amada Vipros 255,Turret Press,Set Up
+335105,2020-11-05,cooking,121,1,5,Amada Vipros 255,Turret Press,Set Up
+335106,2020-11-05,cooking,121,1,6,Amada Vipros 255,Turret Press,Set Up
+335107,2020-11-05,cooking,121,1,7,Amada Vipros 255,Turret Press,Maintenance
+335108,2020-11-05,cooking,121,1,3,Amada Vipros 255,Turret Press,Set Up
+335110,2020-11-05,cooking,121,1,5,Amada Vipros 255,Turret Press,Set Up
+335111,2020-11-05,cooking,146,1,23,Amada Vipros 255,Turret Press,No Operator
+335112,2020-11-05,cooking,146,1,7,Amada Vipros 255,Turret Press,Set Up
+335114,2020-11-05,cooking,146,1,10,Amada Vipros 255,Turret Press,Operator PM
+335115,2020-11-05,cooking,9,1,5,Amada Vipros 255,Turret Press,Set Up
+335116,2020-11-05,cooking,9,1,10,Amada Vipros 255,Turret Press,Set Up
+335118,2020-11-05,cooking,9,1,22,Amada Vipros 255,Turret Press,Set Up
+335119,2020-11-05,cooking,9,1,9,Amada Vipros 255,Turret Press,Set Up
+335120,2020-11-05,cooking,9,1,20,Amada Vipros 255,Turret Press,Set Up
+335122,2020-11-05,cooking,9,1,15,Amada Vipros 255,Turret Press,Operator PM
+335123,2020-11-05,cooking,51,1,5,Amada Vipros 357 Queen,Turret Press,Set Up
+335124,2020-11-05,cooking,51,1,5,Amada Vipros 357 Queen,Turret Press,Set Up
+335125,2020-11-05,cooking,51,1,5,Amada Vipros 357 Queen,Turret Press,Set Up
+335126,2020-11-05,cooking,51,1,5,Amada Vipros 357 Queen,Turret Press,Set Up
+335127,2020-11-05,cooking,51,1,5,Amada Vipros 357 Queen,Turret Press,Tool Change(dull)
+335128,2020-11-05,cooking,51,1,5,Amada Vipros 357 Queen,Turret Press,Tool Crib
+335129,2020-11-05,cooking,51,1,15,Amada Vipros 357 Queen,Turret Press,Set Up
+335130,2020-11-05,cooking,51,1,15,Amada Vipros 357 Queen,Turret Press,Load Material
+335131,2020-11-05,cooking,51,1,5,Amada Vipros 357 Queen,Turret Press,Set Up
+335132,2020-11-05,cooking,51,1,10,Amada Vipros 357 Queen,Turret Press,Tool Other
+335133,2020-11-05,cooking,51,1,5,Amada Vipros 357 Queen,Turret Press,Tool Change(dull)
+335134,2020-11-05,cooking,51,1,10,Amada Vipros 357 Queen,Turret Press,Tool Crib
+335135,2020-11-05,cooking,51,1,5,Amada Vipros 357 Queen,Turret Press,Set Up
+335136,2020-11-05,cooking,51,1,10,Amada Vipros 357 Queen,Turret Press,Set Up
+335137,2020-11-05,cooking,51,1,10,Amada Vipros 357 Queen,Turret Press,Set Up
+335138,2020-11-05,cooking,51,1,10,Amada Vipros 357 Queen,Turret Press,Operator PM
+335139,2020-11-05,cooking,5,1,10,Amada Vipros 358 King,Turret Press,Set Up
+335140,2020-11-05,cooking,5,1,5,Amada Vipros 358 King,Turret Press,Set Up
+335141,2020-11-05,cooking,5,1,10,Amada Vipros 358 King,Turret Press,Set Up
+335142,2020-11-05,cooking,5,1,15,Amada Vipros 358 King,Turret Press,Operator PM
+335143,2020-11-05,cooking,26,1,10,Amada EMK3610NT Punching Cell,Turret Press,Set Up
+335144,2020-11-05,cooking,26,1,10,Amada EMK3610NT Punching Cell,Turret Press,Set Up
+335145,2020-11-05,cooking,26,1,10,Amada EMK3610NT Punching Cell,Turret Press,Set Up
+335146,2020-11-05,cooking,26,1,10,Amada EMK3610NT Punching Cell,Turret Press,Set Up
+335147,2020-11-05,cooking,26,1,10,Amada EMK3610NT Punching Cell,Turret Press,Set Up
+335148,2020-11-05,cooking,26,1,15,Amada EMK3610NT Punching Cell,Turret Press,Operator PM
+335149,2020-11-05,cooking,22,1,480,Amada EMK3610NT Punching Cell,Turret Press,No Operator
+335150,2020-11-05,cooking,34,1,480,Amada EMK3610NT Punching Cell,Turret Press,No Operator
+335151,2020-11-05,cooking,53,1,8,Amada ATC Press Brake,Press Brake,Set Up
+335152,2020-11-05,cooking,53,1,3,Amada ATC Press Brake,Press Brake,Set Up
+335153,2020-11-05,cooking,53,1,2,Amada ATC Press Brake,Press Brake,Set Up
+335155,2020-11-05,cooking,53,1,4,Amada ATC Press Brake,Press Brake,Set Up
+335156,2020-11-05,cooking,53,1,1,Amada ATC Press Brake,Press Brake,Set Up
+335157,2020-11-05,cooking,53,1,3,Amada ATC Press Brake,Press Brake,Set Up
+335159,2020-11-05,cooking,53,1,4,Amada ATC Press Brake,Press Brake,Set Up
+335160,2020-11-05,cooking,53,1,7,Amada ATC Press Brake,Press Brake,Operator PM
+335163,2020-11-05,cooking,164,1,5,Amada RG-8024LD Press Brake,Press Brake,Operator PM
+335164,2020-11-05,cooking,90,1,5,Amada FBD 8025 Press Brake,Press Brake,Operator PM
+335165,2020-11-05,cooking,162,1,5,Amada RG-8024LD Press Brake,Press Brake,Operator PM
+335166,2020-11-05,cooking,108,1,12,Amada HFE 8025S Press Brake,Press Brake,Set Up
+335167,2020-11-05,cooking,108,1,14,Amada HFE 8025S Press Brake,Press Brake,Set Up
+335169,2020-11-05,cooking,108,1,15,Amada HFE 8025S Press Brake,Press Brake,Set Up
+335170,2020-11-05,cooking,108,1,10,Amada HFE 8025S Press Brake,Press Brake,Operator PM
+335172,2020-11-05,cooking,81,1,3,Amada RG-3512LD,Press Brake,Set Up
+335174,2020-11-05,cooking,81,1,6,Amada RG-3512LD,Press Brake,Set Up
+335176,2020-11-05,cooking,81,1,3,Amada RG-3512LD,Press Brake,Set Up
+335177,2020-11-05,cooking,81,1,5,Amada RG-3512LD,Press Brake,Operator PM
+335179,2020-11-05,cooking,75,1,20,Amada HFT 8025 Press Brake,Press Brake,Set Up
+335181,2020-11-05,cooking,75,1,20,Amada HFT 8025 Press Brake,Press Brake,Set Up
+335182,2020-11-05,cooking,75,1,10,Amada HFT 8025 Press Brake,Press Brake,Set Up
+335183,2020-11-05,cooking,75,1,15,Amada HFT 8025 Press Brake,Press Brake,Set Up
+335184,2020-11-05,cooking,75,1,10,Amada HFT 8025 Press Brake,Press Brake,Set Up
+335186,2020-11-05,cooking,75,1,10,Amada HFT 8025 Press Brake,Press Brake,Set Up
+335187,2020-11-05,cooking,75,1,5,Amada HFT 8025 Press Brake,Press Brake,Operator PM
+335189,2020-11-05,cooking,78,1,8,Amada RG-50 Press Brake,Press Brake,Set Up
+335191,2020-11-05,cooking,78,1,8,Amada RG-50 Press Brake,Press Brake,Set Up
+335192,2020-11-05,cooking,78,1,4,Amada RG-50 Press Brake,Press Brake,Set Up
+335194,2020-11-05,cooking,78,1,4,Amada RG-50 Press Brake,Press Brake,Set Up
+335195,2020-11-05,cooking,78,1,9,Amada RG-50 Press Brake,Press Brake,Operator PM
+335197,2020-11-05,cooking,69,1,15,Amada HFT 5020 Press Brake,Press Brake,Set Up
+335200,2020-11-05,cooking,69,1,15,Amada HFT 5020 Press Brake,Press Brake,Set Up
+335202,2020-11-05,cooking,69,1,17,Amada HFT 5020 Press Brake,Press Brake,Set Up
+335204,2020-11-05,cooking,69,1,10,Amada HFT 5020 Press Brake,Press Brake,Set Up
+335205,2020-11-05,cooking,69,1,10,Amada HFT 5020 Press Brake,Press Brake,Operator PM
+335207,2020-11-05,cooking,99,1,3,Amada RG-3512LD Press Brake,Press Brake,Set Up
+335209,2020-11-05,cooking,99,1,5,Amada RG-3512LD Press Brake,Press Brake,Operator PM
+335211,2020-11-05,cooking,84,1,5,Amada RG-5020-LD Press Brake,Press Brake,Operator PM
+335212,2020-11-05,cooking,100,1,5,Amada RG-5020 Press Brake,Press Brake,Operator PM
+335214,2020-11-05,cooking,117,1,20,Amada RG-80 Press Brake,Press Brake,Set Up
+335215,2020-11-05,cooking,117,1,20,Amada RG-80 Press Brake,Press Brake,Set Up
+335216,2020-11-05,cooking,117,1,15,Amada RG-80 Press Brake,Press Brake,Set Up
+335218,2020-11-05,cooking,117,1,28,Amada RG-80 Press Brake,Press Brake,Set Up
+335219,2020-11-05,cooking,117,1,12,Amada RG-80 Press Brake,Press Brake,Set Up
+335220,2020-11-05,cooking,117,1,15,Amada RG-80 Press Brake,Press Brake,Set Up
+335221,2020-11-05,cooking,117,1,12,Amada RG-80 Press Brake,Press Brake,Set Up
+335223,2020-11-05,cooking,117,1,8,Amada RG-80 Press Brake,Press Brake,Operator PM
+335225,2020-11-05,cooking,13,1,4,Amada HDS 8025 NT Press Brake,Press Brake,Set Up
+335226,2020-11-05,cooking,13,1,15,Amada HDS 8025 NT Press Brake,Press Brake,Set Up
+335227,2020-11-05,cooking,13,1,20,Amada HDS 8025 NT Press Brake,Press Brake,Set Up
+335229,2020-11-05,cooking,13,1,15,Amada HDS 8025 NT Press Brake,Press Brake,Set Up
+335231,2020-11-05,cooking,13,1,15,Amada HDS 8025 NT Press Brake,Press Brake,Set Up
+335233,2020-11-05,cooking,13,1,20,Amada HDS 8025 NT Press Brake,Press Brake,Set Up
+335234,2020-11-05,cooking,13,1,30,Amada HDS 8025 NT Press Brake,Press Brake,Move to another machine
+335236,2020-11-05,cooking,13,1,10,Amada HDS 8025 NT Press Brake,Press Brake,Operator PM
+335237,2020-11-05,cooking,120,1,5,Amada RG-80 Press Brake,Press Brake,Operator PM
+335241,2020-11-05,cooking,91,1,5,Amada RG-50 Press Brake,Press Brake,Operator PM
+335248,2020-11-05,cooking,93,1,10,Amada FBD 8025 Press Brake,Press Brake,Operator PM
+335249,2020-11-05,cooking,93,1,10,Amada FBD 8025 Press Brake,Press Brake,Set Up
+335250,2020-11-05,cooking,93,1,10,Amada FBD 8025 Press Brake,Press Brake,Set Up
+335251,2020-11-05,cooking,89,1,10,Amada FBD 8025 Press Brake,Press Brake,Operator PM
+335259,2020-11-05,cooking,72,1,10,Amada FBD 8025 Press Brake,Press Brake,Operator PM
+335263,2020-11-05,cooking,66,1,10,Amada FBD 8025 Press Brake,Press Brake,Operator PM
+335266,2020-11-05,cooking,82,1,5,Press Brake,Press Brake,Operator PM
+335267,2020-11-05,cooking,1,1,17,Amada Shear,Shear,Set Up
+335270,2020-11-05,cooking,1,1,10,Amada Shear,Shear,Operator PM
+335274,2020-11-05,cooking,118,1,10,Amada RG-80 Press Brake,Press Brake,Operator PM
+335277,2020-11-05,cooking,105,1,10,Amada RG-50 Press Brake,Press Brake,Operator PM
+335279,2020-11-05,cooking,144,1,15,Woodtek Sander,Sander,Operator PM
+335281,2020-11-05,cooking,140,1,10,Woodtek Sander,Sander,Operator PM
+335283,2020-11-05,cooking,142,1,10,Woodtek Sander,Sander,Operator PM
+335286,2020-11-05,cooking,141,1,2,Woodtek Sander,Sander,Operator PM
+335288,2020-11-05,cooking,143,1,4,Woodtek Sander,Sander,Operator PM
+335290,2020-11-05,cooking,41,1,2,Woodtek Sander,Sander,Operator PM
+335292,2020-11-05,cooking,43,1,2,Woodtek Sander,Sander,Operator PM
+335295,2020-11-05,cooking,156,1,10,WELDER,Welder,Operator PM
+335297,2020-11-05,cooking,31,1,10,Welder,Welder,Operator PM
+335299,2020-11-05,cooking,148,1,10,Welder,Welder,Operator PM
+335301,2020-11-05,cooking,149,1,10,Welder,Welder,Operator PM
+335303,2020-11-05,cooking,163,1,15,Kuhlmeyer Sander,Sander,Operator PM
+335304,2020-11-05,cooking,145,1,540,Woodtek Sander,Sander,No Operator
+335305,2020-11-05,cooking,145,1,10,Woodtek Sander,Sander,Operator PM
+335306,2020-11-05,cooking,2,1,540,Etcher,Etcher,No Operator
+335307,2020-11-05,cooking,2,1,5,Etcher,Etcher,Operator PM
+335308,2020-11-05,cooking,46,1,540,Etcher,Etcher,No Operator
+335309,2020-11-05,cooking,46,1,5,Etcher,Etcher,Operator PM
+335310,2020-11-05,cooking,64,1,540,Etcher,Etcher,No Operator
+335311,2020-11-05,cooking,64,1,5,Etcher,Etcher,Operator PM
+335312,2020-11-05,cooking,16,1,540,Welder,Welder,No Operator
+335313,2020-11-05,cooking,16,1,5,Welder,Welder,Operator PM
+335314,2020-11-05,cooking,25,1,540,Guifil Press Brake,Press Brake,No Operator
+335315,2020-11-05,cooking,25,1,5,Guifil Press Brake,Press Brake,Operator PM
+335316,2020-11-05,cooking,29,1,540,Grizzly  Sander,Sander,No Operator
+335317,2020-11-05,cooking,29,1,5,Grizzly  Sander,Sander,Operator PM
+335319,2020-11-05,cooking,11,1,15,Welder,Welder,Operator PM
+335321,2020-11-05,cooking,147,1,15,Welder,Welder,Operator PM
+335323,2020-11-05,cooking,145,1,10,Woodtek Sander,Sander,Operator PM
+335325,2020-11-05,cooking,10,1,10,G & P SANDER,Sander,Operator PM
+335327,2020-11-05,cooking,47,1,10,Grizzly Sander,Sander,Operator PM
+335328,2020-11-05,cooking,114,1,5,Amada Vipros 255,Turret Press,Set Up
+335329,2020-11-05,cooking,114,1,5,Amada Vipros 255,Turret Press,Operator PM
+335332,2020-11-05,cooking,114,1,10,Amada Vipros 255,Turret Press,Operator PM
+335333,2020-11-05,cooking,92,1,5,Amada FBD 8025 NT Press Brake,Press Brake,Set Up
+335334,2020-11-05,cooking,92,1,5,Amada FBD 8025 NT Press Brake,Press Brake,Operator PM
+335337,2020-11-05,cooking,92,1,10,Amada FBD 8025 NT Press Brake,Press Brake,Operator PM
+335339,2020-11-05,cooking,122,1,10,Welder,Welder,Operator PM
+335341,2020-11-05,cooking,165,1,10,SPOT WELDER,Spotwelder,Operator PM
+335343,2020-11-05,cooking,17,1,10,TMIO Wing Bender,Custom,Operator PM
+335345,2020-11-05,cooking,18,1,10,"30"" Oven Cavity Banner Welder",Auto spot welder,Operator PM
+335347,2020-11-05,cooking,19,1,10,"30"" Oven Cavity Banner Welder",Auto spot welder,Operator PM
+335349,2020-11-05,cooking,20,1,10,Banner Door Welder,Auto spot welder,Operator PM
+335351,2020-11-05,cooking,21,1,10,Banner Door Welder,Auto spot welder,Operator PM
+335353,2020-11-05,cooking,27,1,10,Innovative Automation Wing Bender,Custom,Operator PM
+335355,2020-11-05,cooking,28,1,10,Banner Triple Cavity Welder,Auto spot welder,Operator PM
+335356,2020-11-05,cooking,138,1,480,Spotwelder,Spotwelder,No Work
+335357,2020-11-05,cooking,138,1,10,Spotwelder,Spotwelder,Operator PM
+335358,2020-11-05,cooking,139,1,480,Air Press,Stamping Press,No Work
+335359,2020-11-05,cooking,139,1,10,Air Press,Stamping Press,Operator PM
+335360,2020-11-05,cooking,152,1,10,SPOT WELDER,Spotwelder,Set Up
+335362,2020-11-05,cooking,152,1,10,SPOT WELDER,Spotwelder,Set Up
+335363,2020-11-05,cooking,152,1,10,SPOT WELDER,Spotwelder,Set Up
+335365,2020-11-05,cooking,152,1,10,SPOT WELDER,Spotwelder,Operator PM
+335366,2020-11-05,cooking,110,1,480,Amada Vipors 255,Turret Press,No Work
+335367,2020-11-05,cooking,137,1,10,Spotwelder,Spotwelder,Set Up
+335368,2020-11-05,cooking,137,1,10,Spotwelder,Spotwelder,Set Up
+335369,2020-11-05,cooking,137,1,10,Spotwelder,Spotwelder,Set Up
+335371,2020-11-05,cooking,137,1,10,Spotwelder,Spotwelder,Set Up
+335372,2020-11-05,cooking,137,1,10,Spotwelder,Spotwelder,Operator PM
+335376,2020-11-05,cooking,23,1,20,Spotwelder,Spotwelder,Operator PM
+335379,2020-11-05,cooking,14,1,20,Rollform Machine,Custom,Operator PM
+335381,2020-11-05,cooking,133,1,10,Lors Spotwelder,Spotwelder,Operator PM
+335576,2020-11-05,cooking,32,1,20,TOGU,Tool sharpener,Operator PM
+335578,2020-11-05,cooking,36,1,19,TOGU,Tool sharpener,Operator PM
+335580,2020-11-05,cooking,49,1,22,TOGU,Tool sharpener,Operator PM
+335582,2020-11-05,cooking,48,1,480,Timersaver,Sander,No Operator
+335583,2020-11-05,cooking,130,1,5,Amada 400-Ton Press,Stamping Press,Set Up
+335584,2020-11-05,cooking,130,1,5,Amada 400-Ton Press,Stamping Press,Set Up
+335586,2020-11-05,cooking,130,1,5,Amada 400-Ton Press,Stamping Press,Operator PM
+335588,2020-11-05,cooking,132,1,10,APT Press,Stamping Press,Set Up
+335589,2020-11-05,cooking,132,1,30,APT Press,Stamping Press,Set Up
+335590,2020-11-05,cooking,129,1,20,400-Ton Press,Stamping Press,Set Up
+335591,2020-11-05,cooking,129,1,20,400-Ton Press,Stamping Press,Set Up
+335592,2020-11-05,cooking,131,1,20,40-Ton Press,Stamping Press,Set Up
+335593,2020-11-05,cooking,131,1,40,40-Ton Press,Stamping Press,Set Up
+335594,2020-11-05,cooking,131,1,5,40-Ton Press,Stamping Press,Load Material
+335595,2020-11-05,cooking,131,1,30,40-Ton Press,Stamping Press,Move to another machine
+335596,2020-11-05,cooking,131,1,5,40-Ton Press,Stamping Press,Operator PM
+335597,2020-11-05,cooking,127,1,40,100-Ton Press,Stamping Press,Set Up
+335598,2020-11-05,cooking,127,1,1,100-Ton Press,Stamping Press,Move to another machine
+335599,2020-11-05,cooking,130,2,45,Amada 400-Ton Press,Stamping Press,Set Up
+335600,2020-11-05,cooking,130,2,260,Amada 400-Ton Press,Stamping Press,Move to another machine
+335602,2020-11-05,cooking,129,2,10,400-Ton Press,Stamping Press,Operator PM
+335603,2020-11-05,cooking,129,2,42,400-Ton Press,Stamping Press,Set Up
+335604,2020-11-05,cooking,130,2,26,Amada 400-Ton Press,Stamping Press,Set Up
+335605,2020-11-05,cooking,130,2,40,Amada 400-Ton Press,Stamping Press,Set Up
+335606,2020-11-05,cooking,130,2,36,Amada 400-Ton Press,Stamping Press,Set Up
+335607,2020-11-05,cooking,130,2,10,Amada 400-Ton Press,Stamping Press,Operator PM
+335608,2020-11-05,cooking,132,2,11,APT Press,Stamping Press,Set Up
+335609,2020-11-05,cooking,132,2,23,APT Press,Stamping Press,Set Up
+335610,2020-11-05,cooking,132,2,10,APT Press,Stamping Press,Operator PM
+336302,2020-11-05,cooking,103,1,90,Amada LC3015 Theta Laser,Laser,Maintenance
+336303,2020-11-05,cooking,103,1,20,Amada LC3015 Theta Laser,Laser,Set Up
+336304,2020-11-05,cooking,103,1,25,Amada LC3015 Theta Laser,Laser,Program Error
+336307,2020-11-05,cooking,157,1,5,Amada 2KW Laser,Laser,Operator PM
+336308,2020-11-05,cooking,155,1,15,Amada Gemini Laser,Laser,Set Up
+336311,2020-11-05,cooking,155,1,10,Amada Gemini Laser,Laser,Operator PM
+336312,2020-11-05,cooking,155,1,420,Amada Gemini Laser,Laser,Maintenance
+336313,2020-11-05,cooking,15,1,5,Amada FO3015NT  Laser,Laser,Set Up
+336314,2020-11-05,cooking,15,1,5,Amada FO3015NT  Laser,Laser,Set Up
+336315,2020-11-05,cooking,15,1,5,Amada FO3015NT  Laser,Laser,Set Up
+336316,2020-11-05,cooking,15,1,5,Amada FO3015NT  Laser,Laser,Operator PM

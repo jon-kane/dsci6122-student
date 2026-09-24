@@ -1,0 +1,97 @@
+id,day,plant,machine_id,shift,dt,description,category,reason_code
+358895,2021-01-12,refrigeration,44,1,5,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+358896,2021-01-12,refrigeration,44,1,15,AMADA RG-80 PRESS BRAKE,Press Brake,Operator PM
+358898,2021-01-12,refrigeration,94,1,5,LORS SPOTWELDER,Spotwelder,Set Up
+358900,2021-01-12,refrigeration,94,1,15,LORS SPOTWELDER,Spotwelder,Operator PM
+358901,2021-01-12,refrigeration,73,1,5,FELDMANN DUAL ARM FORMER,Custom,Set Up
+358903,2021-01-12,refrigeration,73,1,10,FELDMANN DUAL ARM FORMER,Custom,Operator PM
+358904,2021-01-12,refrigeration,73,1,360,FELDMANN DUAL ARM FORMER,Custom,No Work
+358905,2021-01-12,refrigeration,76,1,5,GMT STAKING MACHINE (SPECIAL),Custom,Set Up
+358907,2021-01-12,refrigeration,76,1,10,GMT STAKING MACHINE (SPECIAL),Custom,Operator PM
+358908,2021-01-12,refrigeration,79,1,5,FELDMANN  FOUR POST FORMER,Custom,Set Up
+358909,2021-01-12,refrigeration,79,1,15,FELDMANN  FOUR POST FORMER,Custom,Operator PM
+358911,2021-01-12,refrigeration,63,1,5,AMADA RG 50 PRESS BRAKE,Press Brake,Set Up
+358913,2021-01-12,refrigeration,63,1,5,AMADA RG 50 PRESS BRAKE,Press Brake,Operator PM
+358915,2021-01-12,refrigeration,119,1,15,Amada RG-80 Press Brake,Press Brake,Set Up
+358916,2021-01-12,refrigeration,119,1,10,Amada RG-80 Press Brake,Press Brake,Set Up
+358917,2021-01-12,refrigeration,119,1,15,Amada RG-80 Press Brake,Press Brake,Set Up
+358918,2021-01-12,refrigeration,119,1,15,Amada RG-80 Press Brake,Press Brake,Set Up
+358919,2021-01-12,refrigeration,119,1,15,Amada RG-80 Press Brake,Press Brake,Operator PM
+358920,2021-01-12,refrigeration,101,1,480,LORS SPOTWELDER,Spotwelder,No Work
+358921,2021-01-12,refrigeration,101,1,20,LORS SPOTWELDER,Spotwelder,Operator PM
+358923,2021-01-12,refrigeration,96,1,10,LORS SPOTWELDER,Spotwelder,Set Up
+358924,2021-01-12,refrigeration,96,1,10,LORS SPOTWELDER,Spotwelder,Set Up
+358925,2021-01-12,refrigeration,96,1,20,LORS SPOTWELDER,Spotwelder,Operator PM
+358926,2021-01-12,refrigeration,96,1,15,LORS SPOTWELDER,Spotwelder,No Work
+358928,2021-01-12,refrigeration,98,1,35,LORS SPOTWELDER,Spotwelder,Set Up
+358929,2021-01-12,refrigeration,98,1,10,LORS SPOTWELDER,Spotwelder,Set Up
+358930,2021-01-12,refrigeration,98,1,20,LORS SPOTWELDER,Spotwelder,Operator PM
+358931,2021-01-12,refrigeration,98,1,15,LORS SPOTWELDER,Spotwelder,No Work
+358932,2021-01-12,refrigeration,52,1,15,CINCINNATI PRESS BRAKE,Press Brake,Set Up
+358933,2021-01-12,refrigeration,52,1,5,CINCINNATI PRESS BRAKE,Press Brake,Operator PM
+358934,2021-01-12,refrigeration,70,1,480,H&H J-FLANGE FORMER,Custom,No Work
+358935,2021-01-12,refrigeration,70,1,20,H&H J-FLANGE FORMER,Custom,Operator PM
+358936,2021-01-12,refrigeration,136,1,17,AMADA VIPROS 255,Turret Press,No Operator
+358937,2021-01-12,refrigeration,136,1,7,AMADA VIPROS 255,Turret Press,Set Up
+358938,2021-01-12,refrigeration,136,1,10,AMADA VIPROS 255,Turret Press,No Operator
+358939,2021-01-12,refrigeration,136,1,7,AMADA VIPROS 255,Turret Press,Set Up
+358940,2021-01-12,refrigeration,136,1,9,AMADA VIPROS 255,Turret Press,Tool Change(dull)
+358941,2021-01-12,refrigeration,136,1,7,AMADA VIPROS 255,Turret Press,Set Up
+358942,2021-01-12,refrigeration,136,1,10,AMADA VIPROS 255,Turret Press,No Operator
+358943,2021-01-12,refrigeration,136,1,18,AMADA VIPROS 255,Turret Press,No Operator
+358944,2021-01-12,refrigeration,136,1,21,AMADA VIPROS 255,Turret Press,Operator PM
+358945,2021-01-12,refrigeration,61,1,17,AMADA VIPROS 255,Turret Press,No Operator
+358946,2021-01-12,refrigeration,61,1,9,AMADA VIPROS 255,Turret Press,Tool Change(dull)
+358947,2021-01-12,refrigeration,61,1,9,AMADA VIPROS 255,Turret Press,Set Up
+358948,2021-01-12,refrigeration,61,1,10,AMADA VIPROS 255,Turret Press,No Operator
+358949,2021-01-12,refrigeration,61,1,6,AMADA VIPROS 255,Turret Press,Set Up
+358950,2021-01-12,refrigeration,61,1,8,AMADA VIPROS 255,Turret Press,Set Up
+358951,2021-01-12,refrigeration,61,1,9,AMADA VIPROS 255,Turret Press,Tool Change(dull)
+358952,2021-01-12,refrigeration,61,1,10,AMADA VIPROS 255,Turret Press,No Operator
+358953,2021-01-12,refrigeration,61,1,18,AMADA VIPROS 255,Turret Press,No Operator
+358954,2021-01-12,refrigeration,61,1,7,AMADA VIPROS 255,Turret Press,Set Up
+358955,2021-01-12,refrigeration,58,1,7,AMADA VIPROS 358 KING,Turret Press,Set Up
+358956,2021-01-12,refrigeration,58,1,15,AMADA VIPROS 358 KING,Turret Press,Set Up
+358957,2021-01-12,refrigeration,58,1,5,AMADA VIPROS 358 KING,Turret Press,Set Up
+358958,2021-01-12,refrigeration,58,1,30,AMADA VIPROS 358 KING,Turret Press,Operator PM
+358960,2021-01-12,refrigeration,56,1,20,AMADA RG-50 PRESS BRAKE,Press Brake,Set Up
+358961,2021-01-12,refrigeration,56,1,20,AMADA RG-50 PRESS BRAKE,Press Brake,Set Up
+358963,2021-01-12,refrigeration,56,1,15,AMADA RG-50 PRESS BRAKE,Press Brake,Operator PM
+358965,2021-01-12,refrigeration,54,1,12,AMADA HFE 8025S PRESS BRAKE,Press Brake,Set Up
+358966,2021-01-12,refrigeration,54,1,8,AMADA HFE 8025S PRESS BRAKE,Press Brake,Set Up
+358967,2021-01-12,refrigeration,54,1,6,AMADA HFE 8025S PRESS BRAKE,Press Brake,Set Up
+358968,2021-01-12,refrigeration,54,1,15,AMADA HFE 8025S PRESS BRAKE,Press Brake,Operator PM
+358971,2021-01-12,refrigeration,52,1,15,CINCINNATI PRESS BRAKE,Press Brake,Set Up
+358972,2021-01-12,refrigeration,52,1,10,CINCINNATI PRESS BRAKE,Press Brake,Set Up
+358973,2021-01-12,refrigeration,52,1,10,CINCINNATI PRESS BRAKE,Press Brake,Set Up
+358975,2021-01-12,refrigeration,52,1,240,CINCINNATI PRESS BRAKE,Press Brake,Move to another machine
+358977,2021-01-12,refrigeration,52,1,15,CINCINNATI PRESS BRAKE,Press Brake,Operator PM
+358979,2021-01-12,refrigeration,42,1,5,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+358980,2021-01-12,refrigeration,42,1,15,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+358981,2021-01-12,refrigeration,42,1,5,AMADA RG-80 PRESS BRAKE,Press Brake,Operator PM
+358984,2021-01-12,refrigeration,104,1,5,AMADA HFT 8025S PRESS BRAKE,Press Brake,Operator PM
+358986,2021-01-12,refrigeration,39,1,10,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+358987,2021-01-12,refrigeration,39,1,10,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+358988,2021-01-12,refrigeration,39,1,10,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+358989,2021-01-12,refrigeration,39,1,10,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+358990,2021-01-12,refrigeration,39,1,10,AMADA RG-80 PRESS BRAKE,Press Brake,Set Up
+358991,2021-01-12,refrigeration,39,1,15,AMADA RG-80 PRESS BRAKE,Press Brake,Operator PM
+358993,2021-01-12,refrigeration,7,1,125,AMADA VIPROS 358 KING,Turret Press,Maintenance
+358994,2021-01-12,refrigeration,7,1,6,AMADA VIPROS 358 KING,Turret Press,Set Up
+358995,2021-01-12,refrigeration,7,1,8,AMADA VIPROS 358 KING,Turret Press,Set Up
+358996,2021-01-12,refrigeration,7,1,6,AMADA VIPROS 358 KING,Turret Press,Set Up
+358999,2021-01-12,refrigeration,3,1,480,TOMAN TOOL HEAT STAKER,Custom,No Work
+359000,2021-01-12,refrigeration,3,1,20,TOMAN TOOL HEAT STAKER,Custom,Operator PM
+359001,2021-01-12,refrigeration,158,1,10,AMADA VIPROS 357 QUEEN,Turret Press,Set Up
+359002,2021-01-12,refrigeration,158,1,4,AMADA VIPROS 357 QUEEN,Turret Press,Set Up
+359003,2021-01-12,refrigeration,158,1,7,AMADA VIPROS 357 QUEEN,Turret Press,Set Up
+359004,2021-01-12,refrigeration,158,1,7,AMADA VIPROS 357 QUEEN,Turret Press,Set Up
+359005,2021-01-12,refrigeration,158,1,30,AMADA VIPROS 357 QUEEN,Turret Press,Operator PM
+359007,2021-01-12,refrigeration,104,1,9,AMADA HFT 8025S PRESS BRAKE,Press Brake,Set Up
+359008,2021-01-12,refrigeration,104,1,96,AMADA HFT 8025S PRESS BRAKE,Press Brake,Set Up
+359009,2021-01-12,refrigeration,104,1,65,AMADA HFT 8025S PRESS BRAKE,Press Brake,No Work
+359010,2021-01-12,refrigeration,104,1,16,AMADA HFT 8025S PRESS BRAKE,Press Brake,Set Up
+359011,2021-01-12,refrigeration,104,1,5,AMADA HFT 8025S PRESS BRAKE,Press Brake,Set Up
+359012,2021-01-12,refrigeration,50,1,5,AMADA VIPROS 357 QUEEN,Turret Press,Set Up
+359014,2021-01-12,refrigeration,50,1,5,AMADA VIPROS 357 QUEEN,Turret Press,Tool Change(dull)
+359015,2021-01-12,refrigeration,50,1,10,AMADA VIPROS 357 QUEEN,Turret Press,Load Material

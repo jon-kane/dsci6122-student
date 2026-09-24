@@ -1,0 +1,55 @@
+id,day,plant,machine_id,shift,dt,description,category,reason_code
+255476,2020-03-17,ventilation,4,1,30,SHEAR,Shear,Set Up
+255477,2020-03-17,ventilation,4,1,75,SHEAR,Shear,No Operator
+255478,2020-03-17,ventilation,4,1,15,SHEAR,Shear,Operator PM
+255479,2020-03-17,ventilation,8,1,10,255,Turret Press,Set Up
+255480,2020-03-17,ventilation,8,1,10,255,Turret Press,Tool Change(special)
+255481,2020-03-17,ventilation,8,1,5,255,Turret Press,No Operator
+255482,2020-03-17,ventilation,8,1,15,255,Turret Press,Operator PM
+255483,2020-03-17,ventilation,24,1,310,357 QUEEN,Turret Press,No Operator
+255484,2020-03-17,ventilation,24,1,10,357 QUEEN,Turret Press,Set Up
+255485,2020-03-17,ventilation,24,1,10,357 QUEEN,Turret Press,Load Material
+255486,2020-03-17,ventilation,24,1,5,357 QUEEN,Turret Press,Tool Change(dull)
+255487,2020-03-17,ventilation,24,1,5,357 QUEEN,Turret Press,Set Up
+255488,2020-03-17,ventilation,24,1,5,357 QUEEN,Turret Press,Set Up
+255489,2020-03-17,ventilation,24,1,15,357 QUEEN,Turret Press,Operator PM
+255490,2020-03-17,ventilation,35,1,390,PULSAR 2415 LASER,Laser,No Operator
+255491,2020-03-17,ventilation,35,1,5,PULSAR 2415 LASER,Laser,Set Up
+255492,2020-03-17,ventilation,35,1,5,PULSAR 2415 LASER,Laser,Set Up
+255493,2020-03-17,ventilation,35,1,15,PULSAR 2415 LASER,Laser,Operator PM
+255494,2020-03-17,ventilation,40,1,10,357 QUEEN,Turret Press,Tool Change(dull)
+255495,2020-03-17,ventilation,40,1,15,357 QUEEN,Turret Press,Set Up
+255496,2020-03-17,ventilation,40,1,5,357 QUEEN,Turret Press,Tool Change(dull)
+255497,2020-03-17,ventilation,40,1,5,357 QUEEN,Turret Press,Set Up
+255498,2020-03-17,ventilation,40,1,360,357 QUEEN,Turret Press,No Operator
+255499,2020-03-17,ventilation,40,1,40,357 QUEEN,Turret Press,Operator PM
+255500,2020-03-17,ventilation,45,1,480,150 TON PRESS,Stamping Press,No Operator
+255501,2020-03-17,ventilation,45,1,15,150 TON PRESS,Stamping Press,Operator PM
+255502,2020-03-17,ventilation,57,1,30,KUHLMEYER SANDER,Sander,Operator PM
+255503,2020-03-17,ventilation,59,1,30,KUHLMEYER SANDER,Sander,Operator PM
+255504,2020-03-17,ventilation,60,1,15,LORS SPOTWELDER,Spotwelder,Set Up
+255505,2020-03-17,ventilation,60,1,15,LORS SPOTWELDER,Spotwelder,Operator PM
+255506,2020-03-17,ventilation,62,1,15,G & P SANDER,Sander,Operator PM
+255507,2020-03-17,ventilation,68,1,480,FBD8025E PRESS BRAKE,Press Brake,No Operator
+255508,2020-03-17,ventilation,68,1,15,FBD8025E PRESS BRAKE,Press Brake,Operator PM
+255509,2020-03-17,ventilation,71,1,15,FBD8025E PRESS BRAKE,Press Brake,Operator PM
+255510,2020-03-17,ventilation,74,1,480,HFB8025 PRESS BRAKE,Press Brake,No Operator
+255511,2020-03-17,ventilation,74,1,15,HFB8025 PRESS BRAKE,Press Brake,Operator PM
+255512,2020-03-17,ventilation,77,1,180,FBD8025NT PRESS BRAKE,Press Brake,No Operator
+255513,2020-03-17,ventilation,77,1,4,FBD8025NT PRESS BRAKE,Press Brake,Set Up
+255514,2020-03-17,ventilation,77,1,15,FBD8025NT PRESS BRAKE,Press Brake,Operator PM
+255515,2020-03-17,ventilation,83,1,480,RAS FLEXIBEND,Custom,No Operator
+255516,2020-03-17,ventilation,83,1,15,RAS FLEXIBEND,Custom,Operator PM
+255517,2020-03-17,ventilation,102,1,20,APELIO PUNCH\LASER COMBO,Turret Press,Set Up
+255518,2020-03-17,ventilation,102,1,10,APELIO PUNCH\LASER COMBO,Turret Press,Set Up
+255519,2020-03-17,ventilation,102,1,10,APELIO PUNCH\LASER COMBO,Turret Press,Tool Change(special)
+255520,2020-03-17,ventilation,102,1,15,APELIO PUNCH\LASER COMBO,Turret Press,Operator PM
+255521,2020-03-17,ventilation,107,1,37,HDS 8025NT,Press Brake,Set Up
+255522,2020-03-17,ventilation,107,1,30,HDS 8025NT,Press Brake,No Operator
+255523,2020-03-17,ventilation,107,1,5,HDS 8025NT,Press Brake,Operator PM
+255524,2020-03-17,ventilation,112,1,25,Tool Crib,Tool sharpener,Operator PM
+255525,2020-03-17,ventilation,113,1,20,Tool Crib,Tool sharpener,Operator PM
+255526,2020-03-17,ventilation,115,1,15,Welder,Welder,Set Up
+255527,2020-03-17,ventilation,115,1,15,Welder,Welder,Operator PM
+255528,2020-03-17,ventilation,123,1,10,MILLER WELDER,Welder,Operator PM
+255529,2020-03-17,ventilation,126,1,15,MILLER WELDER,Welder,Operator PM
